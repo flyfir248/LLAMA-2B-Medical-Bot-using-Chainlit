@@ -1,5 +1,20 @@
 # **Chainlit Agent Based LLama model**
 
+###User Note : Please 1st Download and place the LLAMA 2B model into native directory before running the program.
+
+**Download LLAMA 2b here :** https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
+
+0.) Dowload the said model
+
+1.) Run Ingest.py
+
+2.) later run model.py
+
+3.) Run command in terminal : chainlit run model.py -w
+
+4.) User window automatically pops up as see in readme,md
+
+
 ### User window
 
 ![img.png](img.png)
