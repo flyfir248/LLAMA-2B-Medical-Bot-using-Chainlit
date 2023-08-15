@@ -35,3 +35,21 @@
 
 ![img_7.png](img_7.png)
 #### It also has the added advantage of reiterating ut's search as the old  queries and answers are left in memory.
+
+### References
+
+Llama 2 Model (Quantized one by the Bloke): https://huggingface.co/TheBloke/Llama...
+
+Llama 2 HF Model (Original One): https://huggingface.co/meta-llama
+
+Chainlit docs: https://github.com/Chainlit/chainlit
+
+Faiss GitHub: https://github.com/facebookresearch/f...
+
+AI Anytime: https://github.com/AIAnytime
+
+Langchain Docs: https://python.langchain.com/docs/get...
+
+Sentence Transformers Hugging Face: https://huggingface.co/sentence-trans...
+
+CTransformers GitHub: https://github.com/marella/ctransformers
