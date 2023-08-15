@@ -3,7 +3,7 @@
 ###User Note : Please 1st Download and place the LLAMA 2B model into native directory before running the program.
 
 **Download LLAMA 2b here :** https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
-
+(size of model is 6gbs so not possible to push if not in repo (may have automatically been rejected by repo management system)
 0.) Dowload the said model
 
 1.) Run Ingest.py
