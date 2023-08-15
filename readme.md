@@ -53,6 +53,9 @@
 ![img_7.png](img_7.png)
 #### It also has the added advantage of reiterating ut's search as the old  queries and answers are left in memory.
 
+### Overlay of the process
+![img_8.png](img_8.png)
+
 ### References
 
 Llama 2 Model (Quantized one by the Bloke): https://huggingface.co/TheBloke/Llama...
